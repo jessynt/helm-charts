@@ -1,0 +1,5 @@
+apiVersion: v1
+appVersion: "1.0"
+description: A Helm chart to bring any kind of resources in a k8s cluster
+name: any-resource
+version: 0.1.0

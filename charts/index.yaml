@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  any-resource:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2021-12-31T18:28:45.137683+08:00"
+    description: A Helm chart to bring any kind of resources in a k8s cluster
+    digest: d05188d5b76cbd247e12faa1e40ecb2f96b81ed5c03ea742c8cc8bf0ccfdfa1f
+    name: any-resource
+    urls:
+    - any-resource-0.1.0.tgz
+    version: 0.1.0
+  bark-server:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-31T18:28:45.138197+08:00"
+    description: A Helm chart for Kubernetes
+    digest: e2fe262a475fef5ebf98602651fc801d21a7af8eba30f3f1f77c4ce565b92819
+    name: bark-server
+    type: application
+    urls:
+    - bark-server-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-31T18:28:45.137273+08:00"
